@@ -3,7 +3,7 @@
 #Simply adapt the lines below to be able to compile
 
 # Define project name here
-PROJECT = e-puck2_main-processor-dsp
+PROJECT = e-puck2_example_dsp
 
 #Define path to the e-puck2_main-processor folder
 GLOBAL_PATH = ../e-puck2_main-processor
